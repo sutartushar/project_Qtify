@@ -1,0 +1,7 @@
+.feedBackBtn {
+  background-color: var(--color-black);
+  color: var(--color-green);
+  border-radius: 12px;
+  padding: 10px 16px;
+  cursor: pointer;
+}
